@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "596028421555",
+    "firebase_url": "https://genrec-0298-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "genrec-0298",
+    "storage_bucket": "genrec-0298.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596028421555:android:f8b11469fe095f34ee07c6",
+        "android_client_info": {
+          "package_name": "com.example.genrec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9eHY-zp5WOtEPX3x9Fek8zX4qNWCoK7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
